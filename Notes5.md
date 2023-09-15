@@ -1,7 +1,7 @@
-1. Key points 
+1. Key points from the readings would have to be: using the IAM User, second is learning the four ways to use IAM and most importanly learning the originof IAM
 
-2. 
+2. 3 quotes: "This identity is called the AWS account root user and is accessed by signing in with the email address and password that you used to create the account. We strongly recommend that you do not use the root user for your everyday tasks, even the administrative ones." That line was more understanble than just interesting since the user with that account maight find some weird changes after signing. Quote 2: "IAM supports the processing, storage, and transmission of credit card data by a merchant or service provider, and has been validated as being compliant with Payment Card Industry (PCI) Data Security Standard (DSS)." I found reading this interesting because I've been worried if payment was in any way mandatory for AWS. Quote 3: "An IAM policy is a document that defines permissions to determine what users can do in the AWS account. A policy typically grants access to specific resources and specifies what the user can do with those resources. Policies can also explicitly deny access." This felt important to learn as it states afterwards about controlling actions, and maintaining the right of its conditions.
+ 
+3. New things I've learned are the 4 ways of using IAM from command line tools, SDKs, HTTPS API, and the mangement console. Another new thing to learn was actually working on the IAM user, since it's the only way to work with the mangement conosole at all.
 
-3.
-
-4.
+4. No questions.
